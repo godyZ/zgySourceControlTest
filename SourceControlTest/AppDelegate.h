@@ -12,5 +12,6 @@
 
 @property (strong, nonatomic) UIWindow *window;
 @property (strong, nonatomic) UIView *test;
+@property (strong, nonatomic) UIImage *tempImage;
 
 @end
